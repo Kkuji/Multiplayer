@@ -1,0 +1,17 @@
+.vs/
+.vsconfig
+Assembly-CSharp-Editor.csproj
+Assembly-CSharp.csproj
+Library/
+MultiplayerGame-main.sln
+PhotonChat.csproj
+PhotonRealtime.csproj
+PhotonUnityNetworking.Demos.csproj
+PhotonUnityNetworking.Editor.csproj
+PhotonUnityNetworking.Utilities.Culling.Editor.csproj
+PhotonUnityNetworking.Utilities.PhotonPlayer.Editor.csproj
+PhotonUnityNetworking.Utilities.csproj
+PhotonUnityNetworking.csproj
+PunDemos.DemoHubEditor.csproj
+PunDemos.DemoSlotcarEditor.csproj
+Temp/
